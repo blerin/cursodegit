@@ -1,0 +1,7 @@
+.project
+
+config/databases.yml
+tmp/
+log/
+build/
+
